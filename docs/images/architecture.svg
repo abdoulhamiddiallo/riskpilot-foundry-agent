@@ -1,0 +1,45 @@
+<svg width="760" height="300" viewBox="0 0 760 300" xmlns="http://www.w3.org/2000/svg" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="11"><rect width="760" height="300" fill="#ffffff"/>
+  <defs><marker id="ar" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#475569"/></marker></defs>
+  <rect x="0" y="0" width="760" height="300" rx="12" fill="#f8fafc"/>
+  <rect x="16" y="108" width="118" height="84" rx="10" fill="#fff" stroke="#cbd5e1"/>
+  <text x="75" y="136" text-anchor="middle" font-weight="700" fill="#0b1f3a">Utilisateur</text>
+  <text x="75" y="154" text-anchor="middle" fill="#64748b" font-size="10">Playground</text>
+  <text x="75" y="168" text-anchor="middle" fill="#64748b" font-size="10">Python</text>
+  <text x="75" y="182" text-anchor="middle" fill="#64748b" font-size="10">Évaluation</text>
+  <line x1="134" y1="150" x2="196" y2="150" stroke="#475569" stroke-width="1.6" marker-end="url(#ar)"/>
+  <rect x="200" y="14" width="378" height="274" rx="12" fill="#eef2ff" stroke="#6366f1" stroke-dasharray="5 4"/>
+  <text x="214" y="34" font-weight="700" fill="#3730a3">Projet Foundry proj-riskpilot</text>
+  <rect x="216" y="44" width="346" height="30" rx="7" fill="#ffe4e6" stroke="#e11d48"/>
+  <text x="389" y="63" text-anchor="middle" fill="#9f1239" font-weight="600">Garde-fou gr-riskpilot : jailbreak, injections, contenu nuisible</text>
+  <rect x="216" y="84" width="346" height="88" rx="10" fill="#4f46e5"/>
+  <text x="389" y="108" text-anchor="middle" fill="#fff" font-weight="700" font-size="13">Agent riskpilot-fmm</text>
+  <text x="389" y="127" text-anchor="middle" fill="#e0e7ff">Modèle gpt-5-mini · Instructions métier</text>
+  <text x="389" y="144" text-anchor="middle" fill="#e0e7ff">Règle d'or : calculer, citer l'article, ne jamais inventer</text>
+  <text x="389" y="161" text-anchor="middle" fill="#c7d2fe" font-size="10">Chaque enregistrement crée une version</text>
+  <rect x="216" y="190" width="166" height="86" rx="10" fill="#ccfbf1" stroke="#0d9488"/>
+  <text x="299" y="211" text-anchor="middle" font-weight="700" fill="#115e59">Interpréteur de code</text>
+  <text x="299" y="229" text-anchor="middle" fill="#134e4a" font-size="10">positions_portefeuille.csv</text>
+  <text x="299" y="244" text-anchor="middle" fill="#134e4a" font-size="10">prix_historiques.csv</text>
+  <text x="299" y="259" text-anchor="middle" fill="#134e4a" font-size="10">scenarios_stress.csv</text>
+  <rect x="396" y="190" width="166" height="86" rx="10" fill="#fef3c7" stroke="#d97706"/>
+  <text x="479" y="211" text-anchor="middle" font-weight="700" fill="#92400e">Recherche de fichiers</text>
+  <text x="479" y="229" text-anchor="middle" fill="#78350f" font-size="10">Politique_Risque_FMM.pdf</text>
+  <text x="479" y="244" text-anchor="middle" fill="#78350f" font-size="10">index vectoriel</text>
+  <text x="479" y="259" text-anchor="middle" fill="#78350f" font-size="10">vs-politique-fmm</text>
+  <line x1="299" y1="172" x2="299" y2="188" stroke="#475569" stroke-width="1.4" marker-end="url(#ar)"/>
+  <line x1="479" y1="172" x2="479" y2="188" stroke="#475569" stroke-width="1.4" marker-end="url(#ar)"/>
+  <text x="299" y="184" text-anchor="middle" fill="#0f766e" font-size="9" font-weight="600" dx="34">calcule</text>
+  <text x="479" y="184" text-anchor="middle" fill="#b45309" font-size="9" font-weight="600" dx="28">lit</text>
+  <line x1="578" y1="128" x2="610" y2="128" stroke="#475569" stroke-width="1.6" marker-end="url(#ar)"/>
+  <rect x="614" y="84" width="132" height="88" rx="10" fill="#fff" stroke="#0d9488" stroke-width="1.5"/>
+  <text x="680" y="108" text-anchor="middle" font-weight="700" fill="#0b1f3a">Note de risque</text>
+  <text x="680" y="126" text-anchor="middle" fill="#64748b" font-size="10">indicateurs et statuts</text>
+  <text x="680" y="140" text-anchor="middle" fill="#64748b" font-size="10">stress, backtesting</text>
+  <text x="680" y="154" text-anchor="middle" fill="#64748b" font-size="10">actions, articles</text>
+  <rect x="614" y="190" width="132" height="86" rx="10" fill="#faf5ff" stroke="#7c3aed"/>
+  <text x="680" y="211" text-anchor="middle" font-weight="700" fill="#6d28d9">Évaluation</text>
+  <text x="680" y="229" text-anchor="middle" fill="#5b21b6" font-size="10">12 questions JSONL</text>
+  <text x="680" y="244" text-anchor="middle" fill="#5b21b6" font-size="10">réponses de référence</text>
+  <text x="680" y="259" text-anchor="middle" fill="#5b21b6" font-size="10">6 évaluateurs</text>
+  <path d="M614 232 C592 232 588 176 566 170" fill="none" stroke="#7c3aed" stroke-width="1.4" stroke-dasharray="4 3" marker-end="url(#ar)"/>
+</svg>

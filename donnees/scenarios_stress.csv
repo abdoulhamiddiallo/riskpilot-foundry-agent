@@ -1,0 +1,6 @@
+code_scenario,libelle,choc_actions_dev_pct,choc_actions_em_pct,choc_taux_pb,choc_spread_ig_pb,choc_spread_hy_pb,choc_or_pct,choc_immo_pct
+S1,Krach actions (type 2008),-35,-40,-100,150,600,10,-40
+S2,Choc d'inflation et de taux (type 2022),-20,-22,250,80,250,-5,-30
+S3,Crise des dettes souveraines euro (type 2011),-25,-15,120,120,400,15,-25
+S4,Pandémie et arrêt économique (type mars 2020),-33,-30,-50,180,550,-3,-38
+S5,Atterrissage en douceur (scénario favorable),12,10,-75,-30,-100,4,10

@@ -1,0 +1,11 @@
+code_actif,libelle,classe_actif,devise,valeur_marche_eur,facteur_stress,duration_modifiee,poids_pct
+ACT_EU,Actions zone euro (indice large),Actions,EUR,9000000,actions_dev,0.0,18.0
+ACT_US,"Actions États-Unis (indice large, en euros)",Actions,EUR,8000000,actions_dev,0.0,16.0
+ACT_EM,Actions marchés émergents,Actions,EUR,3500000,actions_em,0.0,7.0
+OAT_10,Obligations d'État françaises 7-10 ans,Taux souverains,EUR,7000000,taux,8.1,14.0
+BUND_5,Obligations d'État allemandes 3-5 ans,Taux souverains,EUR,4000000,taux,4.2,8.0
+CRED_IG,Crédit entreprises euro Investment Grade,Crédit,EUR,6000000,credit_ig,4.8,12.0
+CRED_HY,Crédit entreprises euro haut rendement,Crédit,EUR,3000000,credit_hy,3.2,6.0
+OR,Or physique,Matières premières,EUR,3500000,or,0.0,7.0
+IMMO,Foncières cotées Europe,Immobilier,EUR,2500000,immo,0.0,5.0
+MONET,Fonds monétaire euro,Monétaire,EUR,3500000,monetaire,0.0,7.0
